@@ -1,3 +1,9 @@
-# Hello_World
-practice repository
-Hello, my name is Joshua Covarrubias and I am studying Business Analytics and Information Systems at The University of Iowa.
+# Project Title
+Hello World Sample
+#### Description
+A practice using Github sample repository
+#### How to Run Program
+#### Files Used
+#### Additional Documentation
+#### Versioning
+
